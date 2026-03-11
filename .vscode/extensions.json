@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.pylance",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "wholroyd.jinja",
+    "mtxr.sqltools",
+    "rangav.vscode-thunder-client",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
